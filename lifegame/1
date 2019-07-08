@@ -1,0 +1,56 @@
+Last login: Mon Jul  8 07:15:00 2019 from 122.96.41.112
+
+Welcome to Alibaba Cloud Elastic Compute Service !
+
+]0;root@iZbewv9no8c3tbZ:~[?1034h[root@iZbewv9no8c3tbZ ~]# ls
+[0m[38;5;34msspanel-v3-mod-uim-bt.sh[0m
+]0;root@iZbewv9no8c3tbZ:~[root@iZbewv9no8c3tbZ ~]# j[Khelp
+GNU bash， 版本 4.2.46(1)-release (x86_64-redhat-linux-gnu)
+这些 shell 命令是内部定义的。请输入 `help' 以获取一个列表.
+输入 `help 名称' 以得到有关函数`名称'的更多信息.
+使用 `info bash' 来获得关于 shell 的更多一般性信息
+使用 `man -k' 或 `info' 来获取不在列表中的命令的更多信息.
+
+名称旁边的星号 (*) 意味着该命令被禁用.
+
+ job_spec [&]                            history [-c] [-d 偏移量] [n] 或 >
+ (( 表达式 ))                         if 命令; then 命令; [ elif 命�>
+ . 文件名 [参数]                    jobs [-lnprs] [任务声明 ...] 或>
+ :                                       kill [-s 信号声明 | -n 信号编>
+ [ 参数... ]                           let 参数 [参数 ...]
+ [[ 表达式 ]]                         local [option] 名称[=值] ...
+ alias [-p] [名称[=值] ... ]          logout [n]
+ bg [任务声明 ...]                   mapfile [-n 计数] [-O 起始序号>
+ bind [-lpvsPVS] [-m 键映射] [-f �>  popd [-n] [+N | -N]
+ break [n]                               printf [-v var] 格式 [参数]
+ builtin [shell 内嵌 [参数 ...]]     pushd [-n] [+N | -N | 目录]
+ caller [表达式]                      pwd [-LP]
+ case 词 in [模式 [| 模式]...) �>  read [-ers] [-a 数组] [-d 分隔�>
+ cd [-L|[-P [-e]]] [dir]                 readarray [-n 计数] [-O 起始序�>
+ command [-pVv] 命令 [参数 ...]      readonly [-aAf] [name[=value] ...] o>
+ compgen [-abcdefgjksuv] [-o 选项]  >  return [n]
+ complete [-abcdefgjksuv] [-pr] [-DE] >  select NAME [in 词语 ... ;] do 命>
+ compopt [-o|+o 选项] [-DE] [名称 >  set [-abefhkmnptuvxBCHP] [-o option->
+ continue [n]                            shift [n]
+ coproc [名称] 命令 [重定向]      shopt [-pqsu] [-o] [选项名 ...]
+ declare [-aAfFgilrtux] [-p] [name[=va>  source 文件名 [参数]
+ dirs [-clpv] [+N] [-N]                  suspend [-f]
+ disown [-h] [-ar] [任务声明 ...]    test [表达式]
+ echo [-neE] [参数 ...]                time [-p] 管道
+ enable [-a] [-dnps] [-f 文件名] [�>  times
+ eval [参数 ...]                       trap [-lp] [[参数] 信号声明 ..>
+ exec [-cl] [-a 名称] [命令 [参�>  真
+ exit [n]                                type [-afptP] 名称 [名称 ...]
+ export [-fn] [名称[=值] ...] 或 e>  typeset [-aAfFgilrtux] [-p] name[=va>
+ 伪                                     ulimit [-SHacdefilmnpqrstuvx] [限�>
+ fc [-e 编辑器名] [-lnr] [起始] >  umask [-p] [-S] [模式]
+ fg [任务声明]                       unalias [-a] 名称 [名称 ...]
+ for 名称 [in 词语 ... ] ; do 命�>  unset [-f] [-v] [名称 ...]
+ for (( 表达式1; 表达式2; 表达>  until 命令; do 命令; done
+ function 名称 { 命令 ; } 或 name>  variables - 一些 shell 变量的�>
+ getopts 选项字符串 名称 [参�>  wait [编号]
+ hash [-lr] [-p 路径名] [-dt] [名�>  while 命令; do 命令; done
+ help [-dms] [模式 ...]                { 命令 ; }
+]0;root@iZbewv9no8c3tbZ:~[root@iZbewv9no8c3tbZ ~]# ex[K[Kclear
+[3;J[H[2J]0;root@iZbewv9no8c3tbZ:~[root@iZbewv9no8c3tbZ ~]# w[Kw[Kprint[K[K[K[K[K^C
+]0;root@iZbewv9no8c3tbZ:~[root@iZbewv9no8c3tbZ ~]# 
